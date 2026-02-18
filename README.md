@@ -4,21 +4,6 @@
 
 > Just having fun. Vibe-coding and AI-powered tools have made building tools and apps more fun than ever.
 
----
-
-## Current Work
-
-I’m a Software Engineer at Picnic in the Netherlands, working on software that powers large-scale logistics and operations.
-I focus on backend systems, data-intensive pipelines, and developer workflows that make teams faster and systems more reliable.
-Over the years, I’ve worked across inbound logistics, payments, realtime analytics, and warehousing software.
-
-### Areas I spend most time in
-- Distributed backend systems
-- Data-intensive pipelines and real-time analytics
-- Payments infrastructure across multiple PSPs, with high-complexity authorization, capture, and refund flows
-- Workflow and tooling improvements for engineering teams
-- Developer automation and agent-assisted workflows
-
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
 [![pi](https://img.shields.io/badge/-pi-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/mariozechner/pi-coding-agent)
 [![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://openai.com/codex)
@@ -29,7 +14,11 @@ Over the years, I’ve worked across inbound logistics, payments, realtime analy
 [![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
----
+## Current Work
+
+I’m a Software Engineer at Picnic in the Netherlands, working on software that powers large-scale logistics and operations.
+I focus on backend systems, data-intensive pipelines, and developer workflows that make teams faster and systems more reliable.
+Over the years, I’ve worked across inbound logistics, payments, realtime analytics, and warehousing software.
 
 ## Projects
 
