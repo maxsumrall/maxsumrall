@@ -1,36 +1,57 @@
 # Hey, I’m Max 👋
 
-📍 **Europe** | 🧠 **Builder / tinkerer** | ⚡ **Shipping useful tools fast**
+📍 USA -> Netherlands | 🛠️ Lead Software Engineer @ Picnic
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Tools-111111?style=flat-square&logo=openai&logoColor=white)
-
-> Currently focused on AI-assisted developer workflows, automation, and small products that remove repetitive work.
-
-## Current Projects
-
-- 🚀 **[Project One](https://github.com/maxsumrall/project-one)** — one-line description
-- 🛠️ **[Project Two](https://github.com/maxsumrall/project-two)** — one-line description
-- 🧪 **[Project Three](https://github.com/maxsumrall/project-three)** — one-line description
-
-## What I’m up to
-
-- Building tools I want to use daily
-- Exploring agentic workflows + CLIs
-- Keeping things fast, simple, and useful
-
-## Find me
-
-- 🌐 Website: **[your-site.com](https://your-site.com)**
-- 🐦 X/Twitter: **[@yourhandle](https://x.com/yourhandle)**
-- 💼 LinkedIn: **[Your Name](https://www.linkedin.com/in/your-handle/)**
+> Just having fun. Vibe-coding and AI-powered tools have made building tools and apps more fun than ever.
 
 ---
 
-<sub>Minimal, practical, and always shipping.</sub>
+## Current Work
+
+I’m a Software Engineer at Picnic in the Netherlands, working on software that powers large-scale logistics and operations.
+I focus on backend systems, data-intensive pipelines, and developer workflows that make teams faster and systems more reliable.
+Over the years, I’ve worked across inbound logistics, payments, realtime analytics, and warehousing software.
+
+### Areas I spend most time in
+- Distributed backend systems
+- Data-intensive pipelines and real-time analytics
+- Payments infrastructure across multiple PSPs, with high-complexity authorization, capture, and refund flows
+- Workflow and tooling improvements for engineering teams
+- Developer automation and agent-assisted workflows
+
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
+[![pi](https://img.shields.io/badge/-pi-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/mariozechner/pi-coding-agent)
+[![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)](https://openai.com/codex)
+[![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)](https://clickhouse.com)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+
+---
+
+## Projects
+
+- 🔍 **[pi-review](https://github.com/maxsumrall/pi-review)** — Simplified flows for starting code reviews for Pi coding agent
+- 🏠 **[homeycli](https://github.com/maxsumrall/homeycli)** — Homey CLI tooling
+
+## Legacy Work
+
+- 📸 **[SmugMugSync](https://github.com/maxsumrall/SmugMugSync)** — Lightroom plugin for mirroring collections/sets to SmugMug
+- 📊 **[xes](https://github.com/maxsumrall/xes)** — Generate XES files for process mining
+- 🧭 **[PathDB](https://github.com/maxsumrall/PathDB)** — A path-focused data store
+- 🧩 **[Path-Index](https://github.com/maxsumrall/Path-Index)** — Path indexing experiments/tooling
+- 📈 **[getRich](https://github.com/maxsumrall/getRich)** — Web-based interactive systems project
+- 🤖 **[KinectHumanoidSync](https://github.com/maxsumrall/KinectHumanoidSync)** — Kinect-driven humanoid robot joint sync
+- 📡 **[ArduinoCommunicator](https://github.com/maxsumrall/ArduinoCommunicator)** — Bridge TCP inputs to Arduino over serial
+
+## Writing & Talks
+
+- 📰 **[How Picnic switched from batch processing to real-time analytics with ClickHouse](https://clickhouse.com/blog/picnic-real-time-analytics)**
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@maxsumrall-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/maxsumrall)
+[![LinkedIn](https://img.shields.io/badge/-Max_Sumrall-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsumrall/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxsumrall)
