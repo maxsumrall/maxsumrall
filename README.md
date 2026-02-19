@@ -25,7 +25,7 @@ Over the years, I’ve worked across inbound logistics, payments, realtime analy
 - 📱 **CH Pocket** — iOS app for querying and exploring ClickHouse on the go *(private repository)*
 - 🍹 **[Siply](https://siplydrink.shenandoah.io/)** — Product site *(private repository)*
 - 🧪 **[CEV](https://cev.shenandoah.io/)** — Web app project *(private repository)*
-- 🐸 **PepeList** — Curated premium Pepe emoji collection web app *(private repository, currently offline)*
+- 🐸 **PepeList** — AI photo generation web app with user accounts and billing flows *(private repository, currently offline)*
 - 🔍 **[pi-review](https://github.com/maxsumrall/pi-review)** — Simplified flows for starting code reviews for Pi coding agent
 - 🏠 **[homeycli](https://github.com/maxsumrall/homeycli)** — Homey CLI tooling
 
