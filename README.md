@@ -22,6 +22,8 @@ Over the years, I’ve worked across inbound logistics, payments, realtime analy
 
 ## Projects
 
+- 📱 **CH Pocket** — iOS app for querying and exploring ClickHouse on the go *(private repository)*
+- 🍹 **[Siply](https://siplydrink.shenandoah.io/)** — Product site *(private repository)*
 - 🔍 **[pi-review](https://github.com/maxsumrall/pi-review)** — Simplified flows for starting code reviews for Pi coding agent
 - 🏠 **[homeycli](https://github.com/maxsumrall/homeycli)** — Homey CLI tooling
 
