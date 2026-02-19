@@ -1,8 +1,6 @@
 # Hey, I’m Max 👋
 
-📍 USA -> Netherlands | 🛠️ Lead Software Engineer @ Picnic
-
-> Just having fun. Vibe-coding and AI-powered tools have made building tools and apps more fun than ever.
+📍 USA -> Netherlands | 🛠️ Software Engineer @ Picnic
 
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com)
 [![pi](https://img.shields.io/badge/-pi-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/mariozechner/pi-coding-agent)
@@ -16,18 +14,19 @@
 
 ## Current Work
 
-I’m a Software Engineer at Picnic in the Netherlands, working on software that powers large-scale logistics and operations.
-I focus on backend systems, data-intensive pipelines, and developer workflows that make teams faster and systems more reliable.
-Over the years, I’ve worked across inbound logistics, payments, realtime analytics, and warehousing software.
+I’m a Software Engineer at Picnic in Amsterdam, the Netherlands, working on software that powers large-scale logistics and operations.
+I focus on backend systems, data-intensive pipelines, and now agent tools and workflows.
+I’ve worked across inbound logistics, payments, realtime analytics, and warehousing software.
 
 ## Projects
 
-- 📱 **CH Pocket** — iOS app for querying and exploring ClickHouse on the go *(private repository)*
-- 🍹 **[Siply](https://siplydrink.shenandoah.io/)** — Water tracking app with lightning-fast logging, no ads, and no tracking *(private repository)*
-- 🧪 **[CEV](https://cev.shenandoah.io/)** — ClickHouse EXPLAIN Visualizer for turning query plans into something humans can actually understand *(private repository)*
-- 🐸 **PepeList** — AI photo generation web app with authentication and subscription billing *(private repository; discontinued)*
-- 🔍 **[pi-review](https://github.com/maxsumrall/pi-review)** — Simplified flows for starting code reviews for Pi coding agent
-- 🏠 **[homeycli](https://github.com/maxsumrall/homeycli)** — Homey CLI tooling
+- 🔍 **[pi-review](https://github.com/maxsumrall/pi-review)** — Code review tool for quickly reviewing a PR, branch, unstaged changes, or specific commits
+- 🏠 **[homeycli](https://github.com/maxsumrall/homeycli)** — Automate and control your home w/ Homey via CLI
+
+- 🧪 **[CEV](https://cev.shenandoah.io/)** — ClickHouse EXPLAIN Visualizer to make query plans easier to understand
+- 📱 **CH Pocket** — iOS app for querying and monitoring ClickHouse on the go *(wip)*
+- 🐸 **PepeList** — AI photo generation web app with authentication and subscription billing *(discontinued)*
+- 🍹 **[Siply](https://siplydrink.shenandoah.io/)** — Water tracking app with lightning-fast logging
 
 ## Legacy Work
 
